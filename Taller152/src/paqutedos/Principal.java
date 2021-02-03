@@ -11,5 +11,7 @@ package paqutedos;
  * @author reroes
  */
 public class Principal {
-    
+    public static void main(String[] args) {
+        paqueteuno.EscribirArchivo.hola();
+    }
 }
